@@ -84,9 +84,7 @@ One of the main reasons for joining Client-1 to the domain is centralized user a
 <img width="824" height="595" alt="image" src="https://github.com/user-attachments/assets/cd58fe13-defc-43a8-a517-40817c964af4" />
 <img width="1180" height="664" alt="image" src="https://github.com/user-attachments/assets/7902a922-6d4c-4895-82bf-db9084b816ff" />
 <img width="1097" height="716" alt="image" src="https://github.com/user-attachments/assets/27722c72-a202-442e-8fd8-0db20b3e36d2" />
-
-
-
+<img width="838" height="547" alt="image" src="https://github.com/user-attachments/assets/ca4fc470-9ca0-4bed-b370-ace5b4b0ff5b" />
 </p>
 <p>
 Remote Desktop is an important Windows feature that allows a user to connect to and control a computer from another location through a network. In an Active Directory environment, setting up Remote Desktop for non-administrative users on Client-1 allows authorized employees to remotely access their assigned computer without giving them unnecessary administrative privileges. This provides flexibility while maintaining appropriate security and access control.
@@ -100,9 +98,11 @@ Another important reason is user productivity. In a workplace, employees may wor
 <h2>Create a bunch of additional users and attempt to log into client-1 with one of the users</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="846" height="603" alt="image" src="https://github.com/user-attachments/assets/324ebd97-f59a-492e-9ffe-9f74c942402b" />
+<img width="435" height="212" alt="image" src="https://github.com/user-attachments/assets/2c9c5fe6-a87f-4778-9e76-a67049eda5bb" />
+<img width="913" height="563" alt="image" src="https://github.com/user-attachments/assets/eaa27a26-7fcd-43d6-824b-98ede288458c" />
+<img width="975" height="585" alt="image" src="https://github.com/user-attachments/assets/cb64a998-92ce-4a8d-a67d-203c3e2ae551" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Creating a bunch of additional users and attempting to log into client-1 with one of those users is useful for testing how the system handles authentication, authorization, and user access controls. The main purpose is to determine whether client-1 properly restricts access to only the users who are authorized to use it. By creating several different user accounts, we can test whether the system treats each account according to its assigned permissions and whether it prevents unauthorized users from accessing another client’s resources.</p>
 <br />
