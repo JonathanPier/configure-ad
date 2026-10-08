@@ -69,9 +69,7 @@ One of the main reasons for creating a Domain Admin user is to centrally manage 
 <img width="1014" height="613" alt="image" src="https://github.com/user-attachments/assets/c95bc029-484f-45a8-9631-95c5b0ce8cf9" />
 <img width="999" height="607" alt="image" src="https://github.com/user-attachments/assets/841bdf64-ce6e-4595-815a-42bd89f80dc5" />
 <img width="978" height="589" alt="image" src="https://github.com/user-attachments/assets/80557496-a707-4d02-99f1-3bcab389d9c6" />
-
-
-
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/15186226-fc86-4962-a59a-7ef542c49e76" />
 </p>
 <p>
 Joining Client-1 to the domain is an important step when setting up a Windows Active Directory network. A domain allows computers and users to be managed centrally by a Windows Server running Active Directory Domain Services (AD DS). By joining Client-1 to the domain, the computer becomes part of the organization's network and can communicate with the domain controller for authentication, security, and management purposes.
@@ -83,11 +81,19 @@ One of the main reasons for joining Client-1 to the domain is centralized user a
 <h2>Setup Remote Desktop for non-administrative users on Client-1</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="824" height="595" alt="image" src="https://github.com/user-attachments/assets/cd58fe13-defc-43a8-a517-40817c964af4" />
+<img width="1180" height="664" alt="image" src="https://github.com/user-attachments/assets/7902a922-6d4c-4895-82bf-db9084b816ff" />
+<img width="1097" height="716" alt="image" src="https://github.com/user-attachments/assets/27722c72-a202-442e-8fd8-0db20b3e36d2" />
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Remote Desktop is an important Windows feature that allows a user to connect to and control a computer from another location through a network. In an Active Directory environment, setting up Remote Desktop for non-administrative users on Client-1 allows authorized employees to remotely access their assigned computer without giving them unnecessary administrative privileges. This provides flexibility while maintaining appropriate security and access control.
+
+One of the main reasons for enabling Remote Desktop for non-administrative users is remote access. Employees or authorized users may need to access Client-1 without being physically present at the computer. For example, a user might need to access files, applications, or work-related settings from another computer within the organization. Remote Desktop allows the user to connect to Client-1 using their authorized domain credentials.
+
+Another important reason is user productivity. In a workplace, employees may work from different locations or need to access their office computer remotely. By allowing approved non-administrative users to use Remote Desktop, they can continue working with the applications and resources available on Client-1. This can reduce the need for users to be physically present at their workstation.</p>
 <br />
 
 
